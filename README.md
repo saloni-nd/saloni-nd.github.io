@@ -1,1 +1,1 @@
-# scientific-discovery
+Code for my projects.
